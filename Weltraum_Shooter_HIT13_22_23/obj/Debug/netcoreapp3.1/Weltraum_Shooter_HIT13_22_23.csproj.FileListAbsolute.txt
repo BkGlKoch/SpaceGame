@@ -18,3 +18,5 @@ C:\Users\Michael\source\repos\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3
 C:\Users\Michael\source\repos\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3.1\Weltraum_Shooter_HIT13_22_23.dll
 C:\Users\Michael\source\repos\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3.1\Weltraum_Shooter_HIT13_22_23.pdb
 C:\Users\Michael\source\repos\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3.1\Weltraum_Shooter_HIT13_22_23.genruntimeconfig.cache
+C:\Users\Michael\Source\Repos\BkGlKoch\SpaceGame\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3.1\Weltraum_Shooter_HIT13_22_23.dll
+C:\Users\Michael\Source\Repos\BkGlKoch\SpaceGame\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3.1\Weltraum_Shooter_HIT13_22_23.pdb

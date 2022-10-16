@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Michael\Source\Repos\BkGlKoch\SpaceGame\Weltraum_Shooter_HIT13_22_23\obj\Debug\netcoreapp3.1\
+C:\Users\Michael\Source\Repos\BkGlKoch\SpaceGame\Weltraum_Shooter_HIT13_22_23\obj\Release\netcoreapp3.1\
 Weltraum_Shooter_HIT13_22_23
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Michael\Source\Repos\BkGlKoch\SpaceGame\Weltraum_Shooter_HIT13_22_23\App.xaml
 11407045341
 
